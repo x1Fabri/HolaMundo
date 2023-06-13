@@ -1,5 +1,5 @@
-1
-2
+#HolaMundo
+
 mi primer repositorio
-4
-i like the computer, i like the internet
+
+i like the computer
